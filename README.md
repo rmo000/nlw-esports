@@ -7,9 +7,9 @@
     <img alt="NLW eSports" src=".github/modal.png" />
 </h1>
 
-<h1 align="center" style="display: flex; gap: 10px">
-    <img alt="NLW eSports" src=".github/mobile1.jpg" />
-    <img alt="NLW eSports" src=".github/mobile2.jpg" />
+<h1 align="center">
+    <img alt="NLW eSports" width="400" src=".github/mobile1.jpg" />
+    <img alt="NLW eSports" width="400" src=".github/mobile2.jpg" />
 </h1>
 
 <br>

@@ -8,7 +8,7 @@
 </h1>
 
 <h1 align="center">
-    <img alt="NLW eSports" width="400" src=".github/mobile1.jpg" />
+    <img alt="NLW eSports" width="400" src=".github/mobile3.jpg" />
     <img alt="NLW eSports" width="400" src=".github/mobile2.jpg" />
 </h1>
 
@@ -33,6 +33,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚀 Como executar
 
+O projeto foi desenvolvido pensando em ter apenas um backend para diferentes frontends, como demosntra o diagrama abaixo:
+
+<p align="center">
+  <img alt="NLW eSports" src=".github/fluxo.png" width="160px">
+</p>
+
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
@@ -56,7 +62,7 @@ Lembrando que será necessário criar uma conta no [Firebase](https://firebase.g
 
 Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática. 
 
-Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada dos dias 20 a 27 de Junho de 2021.
+Este é um projeto desenvolvido durante a **[Next Level Week eSport]**, apresentada dos dias 11 a 18 de Junho de 2022.
 
 
 ## 🔖 Layout
@@ -74,15 +80,3 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 ---
 
 Feito com 💜 by Rocketseat 👋🏻 [Participe da comunidade da Rocketseat](https://discord.gg/gKUVrzrPrU)
-
----
-
-Milha extra:
-
-- Readme do Github
-- Redirect ao criar a sala para a página de admin
-- Redirect para a página de admin se o criador entrar na sala
-- Logout da página de admin
-- Logout da página Room
-- Implementação da opção "Para enviar uma pergunta, Faça seu login"
-- botão de logoff

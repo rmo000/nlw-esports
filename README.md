@@ -35,9 +35,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto foi desenvolvido pensando em ter apenas um backend para diferentes frontends, como demosntra o diagrama abaixo:
 
-<p align="center">
-  <img alt="NLW eSports" src=".github/fluxo.png" width="160px">
-</p>
+<h1 align="center">
+  <img alt="NLW eSports" src=".github/fluxo.png">
+</h1>
 
 Clone o projeto e acesse a pasta do mesmo.
 

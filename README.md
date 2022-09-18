@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="NLW eSports" src=".github/web.png" />
+    <img alt="NLW eSports" src=".github/Web.png" />
     <img alt="NLW eSports" src=".github/modal.png" />
 </h1>
 

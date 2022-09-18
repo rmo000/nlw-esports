@@ -8,8 +8,8 @@
 </h1>
 
 <h1 align="center">
-    <img alt="NLW eSports" src=".github/mobile1.jpg" />
-    <img alt="NLW eSports" src=".github/mobile2.jpg" />
+    <img alt="NLW eSports" style='width: "50%"' src=".github/mobile1.jpg" />
+    <img alt="NLW eSports" style='width: "50%"' src=".github/mobile2.jpg" />
 </h1>
 
 <br>

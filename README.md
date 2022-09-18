@@ -19,8 +19,17 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://reactjs.org)
-- [Firebase](https://firebase.google.com/)
+- [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [SQLite](https://www.sqlite.org/index.html)
+- [Prisma](https://www.prisma.io/)
+- [Express](https://expressjs.com/pt-br/)
+- [Expo](https://expo.dev/)
+- [Radix-ui](https://www.radix-ui.com/)
+- [Axios](https://axios-http.com/ptbr/docs/intro)
+- [Phosphor-react](https://phosphoricons.com/)
+- [Vite](https://vitejs.dev/)
+- [Tailwindcss](https://tailwindcss.com/)
 
 ## 🚀 Como executar
 

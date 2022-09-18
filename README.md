@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Letmeask" src=".github/logo.svg" width="160px">
+  <img alt="Letmeask" src=".github/logo-nlw-esports.svg" width="160px">
 </p>
 
 <h1 align="center">

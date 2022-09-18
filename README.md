@@ -70,6 +70,7 @@ $ npm install
 # Iniciar o frontend
 $ npm run dev
 ```
+O frontend web estará disponível no endereço http://127.0.0.1:5173
 
 Inicie o frontend Mobile:
 

@@ -3,8 +3,8 @@
 </p>
 
 <h1 align="center">
-    <img alt="NLW eSports" src=".github/web" />
-    <img alt="NLW eSports" src=".github/modal" />
+    <img alt="NLW eSports" src=".github/web.png" />
+    <img alt="NLW eSports" src=".github/modal.png" />
 </h1>
 
 <br>

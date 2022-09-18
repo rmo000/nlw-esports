@@ -7,6 +7,11 @@
     <img alt="NLW eSports" src=".github/modal.png" />
 </h1>
 
+<h1 align="center">
+    <img alt="NLW eSports" src=".github/mobile1.png" />
+    <img alt="NLW eSports" src=".github/mobile2.png" />
+</h1>
+
 <br>
 
 ## 🧪 Tecnologias

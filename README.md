@@ -1,9 +1,10 @@
 <p align="center">
-  <img alt="Letmeask" src=".github/logo-nlw-esports.svg" width="160px">
+  <img alt="NLW eSports" src=".github/logo-nlw-esports.svg" width="160px">
 </p>
 
 <h1 align="center">
-    <img alt="Letmeask" src=".github/cover.svg" />
+    <img alt="NLW eSports" src=".github/web" />
+    <img alt="NLW eSports" src=".github/modal" />
 </h1>
 
 <br>

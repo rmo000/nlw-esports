@@ -30,6 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Phosphor-react](https://phosphoricons.com/)
 - [Vite](https://vitejs.dev/)
 - [Tailwindcss](https://tailwindcss.com/)
+- [Nodejs](https://nodejs.org/en/)
 
 ## 🚀 Como executar
 
@@ -39,28 +40,55 @@ O projeto foi desenvolvido pensando em ter apenas um backend para diferentes fro
   <img alt="NLW eSports" src=".github/fluxo.png">
 </h1>
 
-Clone o projeto e acesse a pasta do mesmo.
+Primeiro clone o projeto:
 
 ```bash
-$ git clone https://github.com/rmo000/letmeask.git
-$ cd letmeask
+$ git clone https://github.com/rmo000/nlw-esports.git
+$ cd nlw-esports
 ```
 
-Para iniciá-lo, siga os passos abaixo:
+Depois inicie o backend:
 ```bash
+$ cd server
 # Instalar as dependências
-$ yarn
+$ npm install
 
-# Iniciar o projeto
-$ yarn start
+# Iniciar o backend
+$ npm run dev
 ```
-O app estará disponível no seu browser pelo endereço http://localhost:3000.
+O backend estará disponível no endereço http://localhost:3333.
 
-Lembrando que será necessário criar uma conta no [Firebase](https://firebase.google.com/) e um projeto para disponibilizar um Realtime Database.
+Inicie o frontend Web:
+
+```bash
+#abra outro terminal e navegue até a pasta do projeto
+$ cd web
+
+# Instalar as dependências
+$ npm install
+
+# Iniciar o frontend
+$ npm run dev
+```
+
+Inicie o frontend Mobile:
+
+```bash
+#abra outro terminal e navegue até a pasta do projeto
+$ cd mobile
+
+# Instalar as dependências
+$ npm install
+
+# Iniciar o frontend
+$ expo start
+```
+**No ambiente mobile será necessário instalar o aplicativo Expo Go para testar o app pelo seu próprio celular. 
+Após instalar basta escanear o QR Code**
 
 ## 💻 Projeto
 
-Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática. 
+NLW eSport é um projeto que proporciona um encontro do discord de pessoas para jogar os seus jogos favoritos juntos. 
 
 Este é um projeto desenvolvido durante a **[Next Level Week eSport]**, apresentada dos dias 11 a 18 de Junho de 2022.
 
@@ -69,7 +97,7 @@ Este é um projeto desenvolvido durante a **[Next Level Week eSport]**, apresent
 
 Você pode visualizar o layout do projeto através do link abaixo:
 
-- [Layout Web](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate) 
+- [Layout Web](https://www.figma.com/community/file/1150897317533332617) 
 
 Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
 

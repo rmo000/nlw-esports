@@ -8,8 +8,8 @@
 </h1>
 
 <h1 align="center">
-    <img alt="NLW eSports" width="400" src=".github/mobile3.jpg" />
     <img alt="NLW eSports" width="400" src=".github/mobile2.jpg" />
+    <img alt="NLW eSports" width="400" src=".github/mobile3.jpg" />
 </h1>
 
 <br>
@@ -73,6 +73,10 @@ $ npm run dev
 O frontend web estará disponível no endereço http://localhost:5173
 
 Inicie o frontend Mobile:
+Primeiro será necessário atualizar o conteúdo da variável BACKEND com o IP onde o backend estiver rodando.
+A variável está localizada em mobile/src/screens/Game/index.tsx
+
+Após isso siga os passos abaixo para iniciar o app mobile
 
 ```bash
 #abra outro terminal e navegue até a pasta do projeto

@@ -72,7 +72,7 @@ $ npm run dev
 ```
 O frontend web estará disponível no endereço http://localhost:5173
 
-Inicie o frontend Mobile:
+Inicie o frontend Mobile:<br />
 Primeiro será necessário atualizar o conteúdo da variável BACKEND com o IP onde o backend estiver rodando.
 A variável está localizada em mobile/src/screens/Game/index.tsx
 
